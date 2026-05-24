@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>KOLUSU SAI SATHVIKA</h1>
+    <p>BTech CSE AIML Student</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am interested in AI, ML and Web Development.</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
